@@ -1,8 +1,9 @@
-shop
-==================
+# Near shop 
+Near shop Using Web 3.0 methodologies, Assembly and React is an E-commerce shop to sell and buy things using Near wallet.
 
 This [React] app was initialized with [create-near-app]
 
+![alt text](https://github.com/Amira1502/shopNear/blob/master/screenbud-09089bf1-f286-40b9-9029-479e205ca62c.png)
 
 Quick Start
 ===========
