@@ -1,0 +1,14 @@
+.InventoryContainer {
+  background-color: rgb(240, 239, 239);
+    margin-top: 10%;
+    border-radius: 10px;
+    padding: 3%;
+  }
+  
+  .InventoryListContainer {
+    background-color: #fff;
+    color: black;
+    padding: 10%;
+    width: 550%;
+  }
+  

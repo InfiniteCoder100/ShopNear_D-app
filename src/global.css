@@ -1,0 +1,33 @@
+.App{
+
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(240, 239, 239);
+  padding-top: 8%;
+
+}
+.pad{
+  margin:10px;
+ 
+}
+
+.containerStyle{
+  margin-top: 10px;
+}
+
+
+h1{
+  text-align: center;  
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 42px;
+  font-weight: 900;
+  margin:0px 0px 17.5px
+  }
+
+  @media only screen and (max-width: 600px) {
+    App {
+      display: flex;
+      flex-direction: row;
+    }
+  }
